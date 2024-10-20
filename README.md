@@ -4,9 +4,13 @@ Personal Portfolio Website
 This is my personal portfolio website, designed and developed using HTML, CSS, and JavaScript. The website showcases my skills, projects, and provides a way for visitors to contact me.
 
 Sections of the Website:
+
 Home: A brief introduction about myself, with a photo and a short description of my professional interests and goals.
+
 About: This section outlines my background, skills, and interests, including my expertise in web development and data analytics.
+
 Projects: Showcases three projects I have worked on, each with a brief description and links to the project repositories or demos.
+
 Contact: A simple form where users can submit their name, email, and message. After submission, the form displays a thank you message. (Note: The form submission is not functional, only for demo purposes).
 
 
