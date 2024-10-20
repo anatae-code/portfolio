@@ -15,9 +15,13 @@ Contact: A simple form where users can submit their name, email, and message. Af
 
 
 Features:
+
 Responsive Design: The website adjusts to different screen sizes, ensuring a user-friendly experience on mobile, tablet, and desktop devices.
+
 Smooth Scrolling Navigation: Users can smoothly navigate between different sections of the page via the navigation bar.
+
 Interactive Form: The contact form includes basic validation, ensuring all fields are filled out before submission. Upon submission, a thank you message is displayed.
+
 Modal Popups: JavaScript is used to enhance interactivity by validating form input and implementing smooth scrolling.
 
 
