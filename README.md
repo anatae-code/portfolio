@@ -1,6 +1,7 @@
 # portfolio
 
 Personal Portfolio Website
+
 This is my personal portfolio website, designed and developed using HTML, CSS, and JavaScript. The website showcases my skills, projects, and provides a way for visitors to contact me.
 
 Sections of the Website:
@@ -26,6 +27,9 @@ Modal Popups: JavaScript is used to enhance interactivity by validating form inp
 
 
 Technologies Used:
+
 HTML5: For the structure and content of the website.
+
 CSS3: For styling, layout, and ensuring responsiveness.
+
 JavaScript: For adding interactive features such as form validation and smooth scrolling
